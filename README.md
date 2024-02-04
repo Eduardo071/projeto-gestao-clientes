@@ -1,8 +1,25 @@
-### Dependências
+# Manual de Uso da aplicação
+
+## Dependências
 
 Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixar e instalar a versão 21.6.1 do Node.js em [nodejs.org](https://nodejs.org/).
 
+Certifique-se de ter o Git instalado em sua máquina. Baixe o instalador do Git no site oficial: [git-scm.com](https://git-scm.com/).
+
 Agora, vamos prosseguir com o restante das instruções.
+
+### Clonando repositório
+
+1. Abra o diretório que deseja colocar o projeto.
+
+2. Abra o prompt de comando no seu diretório.
+
+3. Execute o comando:
+
+   ```bash
+   git clone https://github.com/Eduardo071/projeto-gestao-clientes.git
+
+4. Repositório clonado!
 
 ### Banco de Dados
 
