@@ -23,13 +23,13 @@ Agora, vamos prosseguir com o restante das instruções.
 
 ### Banco de Dados
 
-1. Certifique-se de ter um banco de dados PostgreSQL na sua máquina
+1. Certifique-se de ter um banco de dados PostgreSQL na sua máquina.
 
 2. Abra o arquivo `db_create.sql` no script do seu banco e rode.
 
 2. Verifique se o database Projeto-gestao-clientes foi criado e a tabela clientes foi gerada dentro desse database.
 
-3. Pronto, agora é só seguir com os passos do backend e frontend
+3. Pronto, agora é só seguir com os passos do backend e frontend.
 
 ### Backend
 
@@ -45,7 +45,7 @@ Agora, vamos prosseguir com o restante das instruções.
    ```bash
    npm install
 
-4. Dentro da pasta utils no arquivo database.ts, configure as credenciais do seu banco, colocando a sua senha, o resto foi configurado da forma que vem por padrão do banco, mas certifique-se de configurar de acordo com o seu banco
+4. Dentro da pasta utils no arquivo database.ts, configure as credenciais do seu banco, colocando a sua senha, o resto foi configurado da forma que vem por padrão do banco, mas certifique-se de configurar de acordo com o seu banco.
    
 5. Após a instalação das dependências, inicie o servidor backend com o comando:
 
