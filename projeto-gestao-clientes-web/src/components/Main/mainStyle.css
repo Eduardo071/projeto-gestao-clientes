@@ -1,0 +1,32 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.formGroup {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row !important;
+    width: 50%;
+}
+
+.filterType {
+    width: 30% !important;
+}
+
+.filterValue {
+    width: 40% !important;
+}
+
+.table {
+    width: 70vw;
+}

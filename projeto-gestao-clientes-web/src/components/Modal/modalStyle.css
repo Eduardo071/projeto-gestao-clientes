@@ -1,0 +1,18 @@
+.dialog {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    h2 {
+        text-align: center;
+    }
+}
+
+.list li span{
+    text-align: center;
+}
+
+.buttonModal {
+    width: 50%;
+    align-self: center;
+}
